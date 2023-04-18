@@ -8,7 +8,7 @@ export default function Home() {
         <div>
           <Link href="Page1">Page One</Link>
           <br/><br/><br/>
-          <Link href="Page2">Page One</Link>
+          <Link href="Page2">Page Two</Link>
         </div>
       </Provider>
     )
